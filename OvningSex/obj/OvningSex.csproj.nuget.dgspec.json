@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lindh\\Desktop\\lexiconTasks\\cSharp\\OvningSex\\OvningSex.csproj": {}
+    "C:\\Users\\lindh\\Desktop\\lexiconReview\\OvningSex\\OvningSex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lindh\\Desktop\\lexiconTasks\\cSharp\\OvningSex\\OvningSex.csproj": {
+    "C:\\Users\\lindh\\Desktop\\lexiconReview\\OvningSex\\OvningSex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lindh\\Desktop\\lexiconTasks\\cSharp\\OvningSex\\OvningSex.csproj",
+        "projectUniqueName": "C:\\Users\\lindh\\Desktop\\lexiconReview\\OvningSex\\OvningSex.csproj",
         "projectName": "OvningSex",
-        "projectPath": "C:\\Users\\lindh\\Desktop\\lexiconTasks\\cSharp\\OvningSex\\OvningSex.csproj",
+        "projectPath": "C:\\Users\\lindh\\Desktop\\lexiconReview\\OvningSex\\OvningSex.csproj",
         "packagesPath": "C:\\Users\\lindh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lindh\\Desktop\\lexiconTasks\\cSharp\\OvningSex\\obj\\",
+        "outputPath": "C:\\Users\\lindh\\Desktop\\lexiconReview\\OvningSex\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lindh\\AppData\\Roaming\\NuGet\\NuGet.Config"
