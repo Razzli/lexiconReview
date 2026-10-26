@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\lindh\\Desktop\\lexiconTasks\\cSharp\\OvningSex\\OvningSex.csproj",
+      "projectUniqueName": "C:\\Users\\lindh\\Desktop\\lexiconReview\\OvningSex\\OvningSex.csproj",
       "projectName": "OvningSex",
-      "projectPath": "c:\\Users\\lindh\\Desktop\\lexiconTasks\\cSharp\\OvningSex\\OvningSex.csproj",
+      "projectPath": "C:\\Users\\lindh\\Desktop\\lexiconReview\\OvningSex\\OvningSex.csproj",
       "packagesPath": "C:\\Users\\lindh\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\lindh\\Desktop\\lexiconTasks\\cSharp\\OvningSex\\obj\\",
+      "outputPath": "C:\\Users\\lindh\\Desktop\\lexiconReview\\OvningSex\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lindh\\AppData\\Roaming\\NuGet\\NuGet.Config"
